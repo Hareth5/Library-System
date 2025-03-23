@@ -36,10 +36,3 @@ public class Main extends Application {
     }
 }
 
-
-git init
-git remote add origin https://github.com/Hareth5/Library-Management-System
-        .git
-git add .
-git commit -m "Initial commit"
-git push -u origin master
