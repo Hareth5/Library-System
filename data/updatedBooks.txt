@@ -1,0 +1,49 @@
+1000, israa, Sarah Johnson, International Relations, 2020, 517-3579068345
+1001, Essentials of Political Economy, Michael Brown, Political Economy, 2019, 228-4332510976
+1002, Public Policy Fundamentals, Fatima Ahmed, Public Policy, 2019, 615-1412759302
+1003, Foundations of Political Theory, Ali Hassan, Political Theory, 2021, 986-8997661543
+1004, Modern Governance Explained, John Smith, Political Science, 2020, 143-5776102950
+1005, Political Structures and Society, Nora Sadeq, Political Sociology, 2022, 774-2591436809
+1006, Principles of Political Philosophy, Layla Khalid, Political Philosophy, 2023, 413-7912654832
+1007, International Conflict and Cooperation, Sarah Johnson, International Relations, 2023, 203-2180379465
+1008, Advanced Concepts in Government, Michael Brown, Political Science, 2021, 716-9312684570
+1009, Comparative Political Economy, Fatima Ahmed, Political Economy, 2021, 407-8543692016
+1010, Government Systems Worldwide, Ali Hassan, Comparative Politics, 2019, 995-8756241032
+1011, Introduction to Government Studies, Nora Sadeq, Government Studies, 2018, 301-1127653094
+1012, Global Governance and Policy, Layla Khalid, Global Governance, 2018, 572-9630142587
+1013, Political Science Insights, John Smith, Political Science, 2021, 289-3804125697
+1014, Introduction to Public Policy, Sarah Johnson, Public Policy, 2020, 739-1298456705
+1015, Sociology of Power Structures, Michael Brown, Political Sociology, 2018, 694-3224571680
+1016, Theories of Political Thought, Fatima Ahmed, Political Theory, 2018, 508-9097836211
+1017, Comparative Governance Models, Ali Hassan, Comparative Politics, 2022, 199-3654702981
+1018, Diplomacy in a Changing World, Nora Sadeq, International Relations, 2023, 310-7554986309
+1019, Markets and State: A Study, Layla Khalid, Political Economy, 2021, 441-7095368125
+1020, Introduction to Political Philosophy, John Smith, Political Philosophy, 2020, 599-5908021346
+1021, Government Institutions Analysis, Sarah Johnson, Government Studies, 2019, 466-7002513849
+1022, Global Challenges & Governance, Michael Brown, Global Governance, 2021, 847-1983476502
+1023, Political Science Basics, Fatima Ahmed, Political Science, 2023, 254-4401698237
+1024, Public Policy and Society, Ali Hassan, Public Policy, 2021, 351-1720465980
+1025, Classic and Modern Political Thought, Nora Sadeq, Political Theory, 2020, 784-6734528910
+1026, Comparative Politics Revisited, Layla Khalid, Comparative Politics, 2022, 588-7641305924
+1027, Emerging International Relations, John Smith, International Relations, 2022, 740-3256197849
+1028, Social Movements and Political Change, Sarah Johnson, Political Sociology, 2019, 179-8509167342
+1029, State and Society, Michael Brown, Political Economy, 2023, 986-6091342587
+1030, Government Research Methods, Fatima Ahmed, Government Studies, 2019, 670-2415368097
+1031, Global Governance Strategies, Ali Hassan, Global Governance, 2023, 463-2985714306
+1032, Advances in Political Philosophy, Nora Sadeq, Political Philosophy, 2021, 154-7039162850
+1033, Political Science Perspectives, Layla Khalid, Political Science, 2020, 518-6473098512
+1034, Policy Creation 101, John Smith, Public Policy, 2022, 433-3510892675
+1035, Contemporary Political Theories, Sarah Johnson, Political Theory, 2020, 992-1745682035
+1036, Exploring Comparative Politics, Michael Brown, Comparative Politics, 2020, 269-5057846310
+1037, Sociology of Governance, Fatima Ahmed, Political Sociology, 2023, 908-3641792501
+1038, Realities of International Relations, Ali Hassan, International Relations, 2022, 640-4587609123
+1039, History of Political Ideas, Nora Sadeq, Political Philosophy, 2019, 171-2359807468
+1040, Regional Governance Models, Layla Khalid, Global Governance, 2022, 385-7914683025
+1041, Policy Reform and Government, John Smith, Government Studies, 2021, 419-6035182749
+1042, The Future of Public Policy, Sarah Johnson, Public Policy, 2021, 858-1564309274
+1043, Evolution of Modern Governance, Michael Brown, Political Science, 2023, 923-5178463201
+1044, Comparative Approaches to Power, Fatima Ahmed, Comparative Politics, 2022, 586-3790146250
+1045, Capital and the State, Ali Hassan, Political Economy, 2019, 133-9835146702
+1046, Political Science in Practice, Nora Sadeq, Political Science, 2018, 721-1459867203
+1047, Alliances and World Order, Layla Khalid, International Relations, 2019, 835-6728093145
+1048, Government Studies: Advanced Topics, Sarah Johnson, Government Studies, 2023, 927-3405816290
